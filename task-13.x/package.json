@@ -1,0 +1,16 @@
+{
+  "name": "submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "answer.js",
+  "scripts": {
+    "test": "mocha answer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
+  }
+}
